@@ -1,5 +1,5 @@
-## USC CSCI 572 Spring 2024 (Information Retrieval and Web Search Engines)
+## USC CSCI 561 Fall 2024 (Foundations of Artificial Intelligence))
 
 #### Description
- Examines key aspects of information retrieval as they apply to search engines; web crawling, indexing, querying and quality of results are studied.
+Foundations of symbolic intelligent systems, search, logic, knowledge representation, planning, and learning. Recommended Preparation: good programming and algorithm analysis skills
 
