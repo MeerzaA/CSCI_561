@@ -1,0 +1,14 @@
+The textbook for this class is :
+
+
+Artificial Intelligence: A Modern Approach (Pearson Series in Artificial Intelligence) 4th Edition
+by: Stuart Russell & Peter Norvig
+
+ISBN-10: 0134610997
+ISBN-13: 978-0134610993
+
+Buy @--> https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997
+
+	 https://aima.cs.berkeley.edu/
+
+	 https://www.pearson.com/en-us/subject-catalog/p/artificial-intelligence-a-modern-approach/P200000003500/9780137505135
